@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "dsadasd",
+      "password": "$2a$10$CLDCbRvT.TRun0Bh0JQgiup5XfPd3m7J.y5lj96TyZ.z/hJTP5rti",
+      "id": 1
+    },
+    {
+      "username": "hieungu",
+      "password": "$2a$10$7LnrnQsoD.rRknZYc2kxr.DC/hgyQo8WVO0qByqlr2N6orjTRWOSK",
+      "id": 2
+    }
+  ]
+}
